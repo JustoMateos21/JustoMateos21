@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustoMateos21
-- 👀 I’m interested in working as front end developer
-- 🌱 I’ve learned React & React Native
+- 👀 I’m interested in working as Software Engeneer
+- 🌱 I’ve recently learned JAVA and PHP
 - 💞️ I’m looking to collaborate on a project as a developer
 - 📫 How to reach me justomateos8@gmail.com
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustoMateos21
-- 👀 I’m interested in working as Software Engeneer
+- 👀 I’m currently working as a Mobile app developer
 - 🌱 I’ve recently learned JAVA and PHP
 - 💞️ I’m looking to collaborate on a project as a developer
 - 📫 How to reach me justomateos8@gmail.com
